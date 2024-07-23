@@ -51,9 +51,8 @@
 To access the NetJSONs and the prompts we use in our study, clone the repository using the following command.
 
 ```bash
-git clone https://github.com/Mhackiori/LLM-SysAdmin/
+git clone https://github.com/spritz-group/LLM-SysAdmin.git
 cd LLM-SysAdmin
 ```
-<sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work.</sup>
 
 <p align="right"><a href="#top">(back to top)</a></p>
