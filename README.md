@@ -11,10 +11,16 @@
   <p align="center">
     Towards a Virtual System Administrator
     <br />
-    <a href="https://github.com/Mhackiori/LLM-SysAdmin/"><strong>Paper in progress »</strong></a>
+    <a href="https://arxiv.org/abs/2404.12689"><strong>Preprint Available »</strong></a>
     <br />
     <br />
-    <a href="">Anonymous Authors</a>
+    <a href="https://www.math.unipd.it/~donadel">Denis Donadel</a>
+    ·
+    <a href="https://www.math.unipd.it/~fmarchio/">Francesco Marchiori</a>
+    ·
+    <a href="https://sites.google.com/view/lucapajola/home">Luca Pajola</a>
+    ·
+    <a href="https://www.math.unipd.it/~conti/">Mauro Conti</a>
   </p>
 </div>
 
