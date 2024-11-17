@@ -1,0 +1,193 @@
+{
+    "type": "NetworkGraph",
+    "nodes": [
+        {
+            "id": "bb0",
+            "local_addresses": [
+                "10.0.2.3/24",
+                "10.0.0.3/24"
+            ]
+        },
+        {
+            "id": "bb1",
+            "local_addresses": [
+                "100.0.0.1/30",
+                "10.0.3.1/24",
+                "110.0.0.1/30",
+                "10.0.0.1/24"
+            ]
+        },
+        {
+            "id": "bb2",
+            "local_addresses": [
+                "10.0.1.1/24",
+                "130.0.0.1/30",
+                "120.0.0.1/30",
+                "10.0.0.2/24"
+            ]
+        },
+        {
+            "id": "bb3",
+            "local_addresses": [
+                "10.0.1.2/24",
+                "10.0.2.2/24",
+                "140.0.0.1/30"
+            ]
+        },
+        {
+            "id": "bb4",
+            "local_addresses": [
+                "10.0.2.1/24",
+                "10.0.3.2/24"
+            ]
+        },
+        {
+            "id": "as100r1",
+            "local_addresses": [
+                "140.0.0.2/30"
+            ]
+        },
+        {
+            "id": "r1",
+            "local_addresses": [
+                "100.0.0.2/30",
+                "200.0.0.1/30"
+            ]
+        },
+        {
+            "id": "r2",
+            "local_addresses": [
+                "200.0.1.1/24",
+                "200.0.0.2/30"
+            ]
+        },
+        {
+            "id": "r3",
+            "local_addresses": [
+                "210.0.0.1/24",
+                "110.0.0.2/30",
+                "120.0.0.2/30"
+            ]
+        },
+        {
+            "id": "r4",
+            "local_addresses": [
+                "220.0.0.1/30",
+                "220.0.1.1/30"
+            ]
+        },
+        {
+            "id": "r5",
+            "local_addresses": [
+                "130.0.0.2/30",
+                "220.0.1.2/30",
+                "220.0.2.2/30"
+            ]
+        },
+        {
+            "id": "r6",
+            "local_addresses": [
+                "220.0.2.1/30",
+                "220.0.0.2/30"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "bb0",
+            "target": "bb1",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb0",
+            "target": "bb2",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb2",
+            "target": "bb1",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb2",
+            "target": "bb3",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb0",
+            "target": "bb3",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb0",
+            "target": "bb4",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb1",
+            "target": "bb4",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb1",
+            "target": "r1",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb1",
+            "target": "r3",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb2",
+            "target": "r3",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb2",
+            "target": "r5",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "bb3",
+            "target": "as100r1",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "r1",
+            "target": "r2",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "r4",
+            "target": "r6",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "r4",
+            "target": "r5",
+            "cost": 1,
+            "bidirectional": true
+        },
+        {
+            "source": "r5",
+            "target": "r6",
+            "cost": 1,
+            "bidirectional": true
+        }
+    ]
+}
