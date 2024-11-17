@@ -1,0 +1,27 @@
+{
+    "type": "NetworkGraph",
+    "nodes": [
+        {
+            "id": "client",
+            "local_addresses": [
+                "10.0.0.1/16",
+                "fe80::1:abcd"
+            ]
+        },
+        {
+            "id": "server",
+            "local_addresses": [
+                "10.0.1.1/16",
+                "fe80::2:abcd"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "client",
+            "target": "server",
+            "cost": 1,
+            "bidirectional": true
+        }
+    ]
+}

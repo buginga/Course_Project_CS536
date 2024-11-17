@@ -1,0 +1,4 @@
+network,T1,T2,T3,T5,T6,T7,T8,T9,T10,T11,T12,x1_pos,x2_pos,x1_neg,x2_neg
+intradomain,12,30,"bb1,bb2",yes,yes,no,15,yes,10.0.0.0/24,yes,no,bb1,bb2,bb1,bb3
+routers,3,8,"r1,r2",no,yes,no,5,yes,200.0.0.0/30,yes,no,r2,r3,r1,r3
+webserver,2,4,"client,server",yes,yes,yes,2,yes,"10.0.0.0/16,f80:::/10",yes,yes,client,server,client,server
