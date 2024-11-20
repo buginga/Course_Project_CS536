@@ -1,5 +1,6 @@
 {
     "type": "NetworkGraph",
+    "network": "routers",
     "nodes": [
         {
             "id": "r1",

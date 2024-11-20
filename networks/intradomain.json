@@ -1,5 +1,6 @@
 {
     "type": "NetworkGraph",
+    "network": "intradomain",
     "nodes": [
         {
             "id": "bb0",

@@ -1,5 +1,6 @@
 {
   "type": "NetworkGraph",
+  "network": "datacenter",
   "nodes": [
       {
           "id": "core_switch1",

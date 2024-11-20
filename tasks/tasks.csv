@@ -8,7 +8,7 @@ T6;Do any devices have multiple IP addresses assigned to them?;IP addressing
 T7;Are there any IPv6 addresses assigned?;IP addressing 
 T8;How many subnetworks are there in my network? Answer with a number.;Subnetting
 T9;Is it possible to remove one subnetwork but keeping all the devices able to ping each other?,Subnetting
-T10;Which is the subnetwork that connects x1 to x2?,Subnetting 
-T11;Is it possible for x1 to ping x2 without any hop? Answer directly with "yes" or "no". (negative);Path computation
-T12;Is it possible for x1 to ping x2 without any hop? Answer directly with "yes" or "no". (positive);Path computation
-T13;Traceroute from x1 to x2.;Path computation
+T10;Which is the subnetwork that connects {x1} to {x2}?,Subnetting 
+T11;Is it possible for {x1} to ping {x2} without any hop? Answer directly with "yes" or "no". (negative);Path computation
+T12;Is it possible for {x1} to ping {x2} without any hop? Answer directly with "yes" or "no". (positive);Path computation
+T13;Traceroute from {x1} to {x2}.;Path computation

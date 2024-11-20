@@ -1,5 +1,6 @@
 {
     "type": "NetworkGraph",
+    "network": "webserver",
     "nodes": [
         {
             "id": "client",
