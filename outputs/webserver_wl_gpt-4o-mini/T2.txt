@@ -1,1 +1,10 @@
-{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the network. The client has 2 local addresses, and the server also has 2 local addresses.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the given network. \n\nThe client has 2 local addresses:\n1. 10.0.0.1/16\n2. fe80::1:abcd\n\nThe server also has 2 local addresses:\n1. 10.0.1.1/16\n2. fe80::2:abcd\n\nSo, 2 (client) + 2 (server) = 4 addresses.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the given network. The client has 2 local addresses and the server has 2 local addresses.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the network. \n\n- The client has 2 local addresses: \n  1. 10.0.0.1/16 \n  2. fe80::1:abcd\n\n- The server has 2 local addresses:\n  1. 10.0.1.1/16 \n  2. fe80::2:abcd \n\nSo, 2 (client) + 2 (server) = 4 addresses total.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the given network structure.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the given network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are a total of 4 IP addresses assigned to devices in the network. There are 2 IPv4 addresses and 2 IPv6 addresses: \n\n- Client: 10.0.0.1/16 (IPv4), fe80::1:abcd (IPv6)\n- Server: 10.0.1.1/16 (IPv4), fe80::2:abcd (IPv6) \n\nSo, 2 (from the client) + 2 (from the server) = 4 addresses.'}

@@ -1,1 +1,10 @@
 {'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network, as each of the nodes has its own local address range. The client has the subnet `10.0.0.0/16` and the server has the subnet `10.0.1.0/16`.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 2 subnetworks in your network.'}

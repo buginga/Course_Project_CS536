@@ -1,1 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 4 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 6 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 15 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 7 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 6 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 8 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 14 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 11 subnetworks in your network.'}
 {'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 6 subnetworks in your network.'}

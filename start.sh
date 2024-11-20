@@ -12,20 +12,20 @@ OLLAMA_SCRIPT="src/network_model_ollama.py"
 OPENAI_SCRIPT="src/network_model_openai.py"
 
 # Outer loop: Iterate over files in the directory
-for file in "$DIRECTORY"/*; do
-    relative_file="${DIRECTORY}/$(basename "$file")"
+# for file in "$DIRECTORY"/*; do
+#     relative_file="${DIRECTORY}/$(basename "$file")"
     
-    echo "Processing file: $relative_file"
+#     echo "Processing file: $relative_file"
     
-    # Inner loop: Iterate over array elements
-    for element in $OLLAMA_MODELS; do
-        echo "  Passing element: $element"
+#     # Inner loop: Iterate over array elements
+#     for element in $OLLAMA_MODELS; do
+#         echo "  Passing element: $element"
         
-        # Pass arguments to the Python script
-        # "network name", "model code"
-        python3 "$OLLAMA_SCRIPT" "$relative_file" "$element"
-    done
-done
+#         # Pass arguments to the Python script
+#         # "network name", "model code"
+#         python3 "$OLLAMA_SCRIPT" "$relative_file" "$element"
+#     done
+# done
 
 # Outer loop: Iterate over files in the directory
 for file in "$DIRECTORY"/*; do

@@ -1,1 +1,10 @@
-{'ID': 'T2', 'topic': 'Network size', 'result': "There are 8 IP addresses assigned to devices in the network. \n\nHere's the breakdown:\n- Router r1 has 3 local addresses.\n- Router r2 has 3 local addresses.\n- Router r3 has 2 local addresses.\n\nSo, 3 (r1) + 3 (r2) + 2 (r3) = 8 IP addresses."}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are a total of 8 IP addresses assigned to devices in the given network:\n\n- r1: 3 local addresses (100.0.0.1/24, 150.0.0.1/30, 200.0.1.2/30)\n- r2: 3 local addresses (150.0.0.2/30, 200.0.0.1/30, 200.0.1.1/30)\n- r3: 2 local addresses (200.0.0.2/30, 220.0.0.1/24)\n\nTherefore, the total number of IP addresses is 3 + 3 + 2 = 8.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 8 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 8 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': "There are 8 IP addresses assigned to devices in the network. \n\nHere's the breakdown:\n- Router r1 has 3 local addresses: 100.0.0.1/24, 150.0.0.1/30, 200.0.1.2/30\n- Router r2 has 3 local addresses: 150.0.0.2/30, 200.0.0.1/30, 200.0.1.1/30\n- Router r3 has 2 local addresses: 200.0.0.2/30, 220.0.0.1/24\n\nAdding these together: 3 + 3 + 2 = 8. \n\nSo, the answer is 8."}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 8 IP addresses assigned to the devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 8 IP addresses assigned to devices in the given network. Here’s the breakdown:\n\n- r1 has 3 local addresses: 100.0.0.1/24, 150.0.0.1/30, 200.0.1.2/30\n- r2 has 3 local addresses: 150.0.0.2/30, 200.0.0.1/30, 200.0.1.1/30\n- r3 has 2 local addresses: 200.0.0.2/30, 220.0.0.1/24\n\nSo, 3 (from r1) + 3 (from r2) + 2 (from r3) = 8.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 8 IP addresses assigned to the devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 8 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 8 IP addresses assigned to the devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 8 IP addresses assigned to devices in the network.'}

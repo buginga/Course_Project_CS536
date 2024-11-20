@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
     for row in tasks:
         results = []
-        for i in range(1):
+        for i in range(10):
             result = {'ID':row['ID'], 'topic':row['topic'], 'result':""}
             if row['ID'] == 'T11':
                 task = row['task'].format(x1=network_label["x1_neg"], x2=network_label["x2_neg"])

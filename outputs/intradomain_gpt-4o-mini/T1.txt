@@ -1,1 +1,10 @@
 {'ID': 'T1', 'topic': 'Network size', 'result': 'There are 13 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 12 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 14 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 13 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 13 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 13 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 12 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 13 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 14 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 14 nodes in the network.'}
