@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the addresses listed are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the addresses listed are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the addresses specified are IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the local addresses listed are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the addresses listed are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the local addresses listed are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the local addresses specified are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the local addresses listed are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the addresses listed are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network. All the local addresses listed are IPv4 addresses.'}

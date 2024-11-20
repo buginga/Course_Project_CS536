@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the "server" node: "fe80::2:abcd".'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the `client` node: `fe80::1:abcd`.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the `server` node: `fe80::2:abcd`.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the "server" node: "fe80::2:abcd".'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the client node: `fe80::1:abcd`.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the `client` node: `fe80::1:abcd`.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the `client` node: `fe80::1:abcd`.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the client node: `fe80::1:abcd`.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the `server` node: `fe80::2:abcd`.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned to the `server` node: `fe80::2:abcd`.'}

@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1\n8. r2\n9. r3\n10. r4\n11. r5\n12. r6'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 6 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. r1\n7. r2\n8. r3\n9. r4\n10. r5\n11. r6'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1, r2, r3, r4, r5, and r6 (these are all the nodes in the "r" category)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1, r2, r3, r4, r5, and r6 (these are all considered separate nodes, even though they share the same IP address range)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1, r2, r3, r4, r5, and r6 are all routers.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1, r2, r3, r4, r5, and r6 (these are all the nodes that have a "local_addresses" attribute)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1, r2, r3, r4, r5, and r6 are all routers.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 6 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. r1\n7. r2\n8. r3\n9. r4\n10. r5\n11. r6'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1\n8. r2\n9. r3\n10. r4\n11. r5\n12. r6'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 6 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. r1\n7. r2\n8. r3\n9. r4\n10. r5\n11. r6'}

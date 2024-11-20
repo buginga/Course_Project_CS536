@@ -1,0 +1,10 @@
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes. The link between client and server is bidirectional.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes. The network graph indicates that there is a direct link from the client to the server, which allows them to communicate directly.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes. The network contains a direct link between the client and server.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes. There is a direct link between the client and server in the network.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes. The link between the client and server is bidirectional.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes. The link between the client and server is bidirectional.'}

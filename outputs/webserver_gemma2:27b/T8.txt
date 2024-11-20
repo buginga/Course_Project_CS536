@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': "There's only **one** subnet in the provided network. \n\nHere's why:\n\n* Both the client and server are within the same /16 network range (10.0.0.0/16).  \n* While they have IPv6 addresses as well, those don't define separate subnets in this context."}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '2 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '2 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '2 \n\n\n**Explanation:**\n\nThe provided network data shows two distinct subnets:\n\n* **10.0.0.1/16:**  This represents the first subnet.\n* **10.0.1.1/16:** This represents the second subnet.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '2 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '2 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '1 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': "1 \n\n\nThere is only one subnet specified:  `10.0.0.1/16`.  While the nodes have IPv6 addresses, those don't define separate subnets in this context."}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '2 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '2 \n'}

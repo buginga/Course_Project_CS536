@@ -1,0 +1,1 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the network. The client has 2 local addresses, and the server also has 2 local addresses.'}

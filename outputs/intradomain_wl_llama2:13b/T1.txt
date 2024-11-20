@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. r1\n7. r6'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 7 nodes in the network:\n\n1. bb0\n2. bb1\n3. bb2\n4. bb3\n5. bb4\n6. as100r1\n7. r1'}

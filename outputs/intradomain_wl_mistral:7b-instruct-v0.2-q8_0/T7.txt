@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network definition. All the addresses specified are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the provided network data. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the provided network data. All the local addresses specified are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, all the local addresses in the given network are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network information. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, all the local addresses in the given network are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network data. All the addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network data. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network information. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network information. All the local addresses are IPv4 addresses.'}

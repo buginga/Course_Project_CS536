@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': " There are 2 nodes in the network. The nodes are identified by the keys 'client' and 'server'."}
+{'ID': 'T1', 'topic': 'Network size', 'result': " There are 2 nodes in the network. The nodes are identified by their ids 'client' and 'server'."}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 2 nodes in the network. The nodes have the ids "client" and "server".'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 2 nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are two nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': " There are 2 nodes in the network based on the provided information. The nodes are identified by their ids: 'client' and 'server'."}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 2 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are two nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 2 nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 2 nodes in the network.'}

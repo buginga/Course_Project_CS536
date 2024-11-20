@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 3 nodes in the network:\n\n1. r1\n2. r2\n3. r3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 3 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 3 nodes in the network:\n\n1. r1\n2. r2\n3. r3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 3 nodes in the network:\n\n1. r1\n2. r2\n3. r3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 3 nodes in the network:\n\n* r1\n* r2\n* r3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': "There are 3 nodes in the network:\n\n* Node 1 (id = 'r1')\n* Node 2 (id = 'r2')\n* Node 3 (id = 'r3')"}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 3 nodes in the network:\n\n* r1\n* r2\n* r3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 3 nodes in the network:\n\n1. r1\n2. r2\n3. r3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 3 nodes in the network:\n\n1. r1\n2. r2\n3. r3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 3 nodes in the network:\n\n* r1\n* r2\n* r3'}

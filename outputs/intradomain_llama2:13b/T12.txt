@@ -1,0 +1,10 @@
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop. Both bb1 and bb2 have a direct connection, as shown by their shared local address of 10.0.0.1/24. Therefore, they can directly communicate with each other without any intermediate hops.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': "\nYes, it is possible for bb1 to ping bb2 without any hop. Both bb1 and bb2 have a direct connection, as shown by their shared local address '10.0.0.1/24'."}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop. Both bb1 and bb2 have direct connections to each other through their respective local addresses.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop. Both bb1 and bb2 have a direct link between them, so they can communicate directly without any need for routing or hops.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}

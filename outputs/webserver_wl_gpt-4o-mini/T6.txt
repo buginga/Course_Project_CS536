@@ -1,0 +1,1 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': "Yes, both devices in the network have multiple IP addresses assigned to them. \n\n- The 'client' has two local addresses:\n  - IPv4: 10.0.0.1/16\n  - IPv6: fe80::1:abcd\n\n- The 'server' also has two local addresses:\n  - IPv4: 10.0.1.1/16\n  - IPv6: fe80::2:abcd\n\nSo, each device has one IPv4 and one IPv6 address assigned."}

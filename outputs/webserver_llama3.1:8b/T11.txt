@@ -1,0 +1,10 @@
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No. \n\nThe addresses of the client and server are in different subnets (`10.0.0.1/16` vs `10.0.1.1/16`), so a direct ping from client to server is not possible.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'no'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No. \n\nThe client and server do not have the same local subnet, so a direct ping is not possible.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No. The addresses of the client and server are on different subnets (`10.0.0.1/16` and `10.0.1.1/16`, respectively), so a direct ping is not possible without going through a router.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}

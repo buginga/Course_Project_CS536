@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n\n\n**Explanation:**\n\nEach IP address range represents a subnetwork:\n\n* **100.0.0.1/24:**  A Class C network.\n* **150.0.0.1/30:** A point-to-point link (only two usable addresses).\n* **200.0.1.2/30:** A point-to-point link.\n* **200.0.0.1/30:** A point-to-point link.\n* **220.0.0.1/24:** A Class C network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}

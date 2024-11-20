@@ -1,0 +1,1 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': "There are 8 IP addresses assigned to devices in the network. \n\nHere's the breakdown:\n- Router r1 has 3 local addresses.\n- Router r2 has 3 local addresses.\n- Router r3 has 2 local addresses.\n\nSo, 3 (r1) + 3 (r2) + 2 (r3) = 8 IP addresses."}

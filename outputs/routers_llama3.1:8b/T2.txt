@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '9 \n\nThere are 3 routers and each has a total of 3 local addresses, so the answer is 3 * 3 = 9.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '11'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '7'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '5'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '9'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '7'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '9'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '10 \n\nThere are 3 local addresses per device, and there are 3 devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '10 \n\nThere are 3 local addresses per router, and there are 3 routers in the network. Therefore, the total number of IP addresses is 3 x 3 = 9 + 1 (the extra address for r3) = 10.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '10'}

@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '3'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '3'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '3'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '3'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '2 devices * 2 addresses/device = 4 \n\nSo, the answer is: 4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '4'}

@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '3 devices have been assigned a total of 9 IP addresses.\n\nHere is the breakdown:\n\n- r1 has 3 IP addresses\n- r2 has 3 IP addresses\n- r3 has 2 IP addresses (but 3 if we consider that in /24 networks, one address is reserved for network routing)\n\nSo, the answer is: 9'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '5'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '15'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '9'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '5'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '15'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '9'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '10'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '7'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '11'}

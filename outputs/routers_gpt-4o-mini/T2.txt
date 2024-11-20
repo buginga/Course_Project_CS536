@@ -1,0 +1,1 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 7 IP addresses assigned to the devices in the network.'}

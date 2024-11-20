@@ -1,0 +1,10 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it: `100.0.0.1/24`, `150.0.0.1/30`, and `200.0.1.2/30`.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it: `100.0.0.1/24`, `150.0.0.1/30`, and `200.0.1.2/30`.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the device with the ID "r1" has multiple IP addresses assigned to it:\n\n* 100.0.0.1/24\n* 150.0.0.1/30\n* 200.0.1.2/30\n\nAll of these IP addresses are listed under the "local_addresses" key in the device object.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it:\n\n* `100.0.0.1/24`\n* `150.0.0.1/30`\n* `200.0.1.2/30`\n\nTherefore, `r1` has three IP addresses assigned to it.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it: `100.0.0.1/24`, `150.0.0.1/30`, and `200.0.1.2/30`.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it:\n\n* `100.0.0.1/24`\n* `150.0.0.1/30`\n* `200.0.1.2/30`\n\nAll of these IP addresses are listed in the `local_addresses` attribute of the `r1` node in the network graph.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it: `100.0.0.1/24`, `150.0.0.1/30`, and `200.0.1.2/30`.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it:\n\n* `100.0.0.1/24`\n* `150.0.0.1/30`\n* `200.0.1.2/30`\n\nAll of these IP addresses are assigned to `r1`.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it: `100.0.0.1/24`, `150.0.0.1/30`, and `200.0.1.2/30`.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, device `r1` has multiple IP addresses assigned to it: `100.0.0.1/24`, `150.0.0.1/30`, and `200.0.1.2/30`.'}

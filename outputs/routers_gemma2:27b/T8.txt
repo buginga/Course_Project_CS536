@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': "5 \n\n\nHere's why:\n\n* **r1:**  Has 3 subnets (100.0.0.1/24, 150.0.0.1/30, 200.0.1.2/30)\n* **r2:** Has 3 subnets (150.0.0.2/30, 200.0.0.1/30, 200.0.1.1/30)\n* **r3:** Has 2 subnets (200.0.0.2/30, 220.0.0.1/24)"}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '6 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': "6 \n\n\nHere's how to determine the number of subnetworks:\n\n* **Count the CIDR notations:** Each entry in the 'local_addresses' list represents a subnetwork.  We have the following:\n    * 100.0.0.1/24\n    * 150.0.0.1/30\n    * 200.0.1.2/30\n    * 150.0.0.2/30\n    * 200.0.0.1/30\n    * 200.0.1.1/30\n    * 200.0.0.2/30\n    * 220.0.0.1/24"}

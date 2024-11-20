@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '4'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '4'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '4'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '4'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '4'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '4'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '4'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 4 subnetworks:\n\n- 100.0.0.0/24\n- 150.0.0.0/30\n- 200.0.0.0/30\n- 200.0.1.0/30\n- 200.0.0.0/30\n- 220.0.0.0/24\n\nSo the answer is: 6'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'Based on the given network, I can see that each router has multiple local addresses, which suggests that they belong to different subnetworks. Specifically:\n\n* r1 has addresses 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30\n* r2 has addresses 150.0.0.2/30, 200.0.0.1/30, and 200.0.1.1/30\n* r3 has address 200.0.0.2/30 and 220.0.0.1/24\n\nThere are 4 different subnetworks in the network:\n\n1. 100.0.0.1/24 (r1)\n2. 150.0.0.1/30 (r1)\n3. 200.0.1.2/30 (r1)\n4. 220.0.0.1/24 (r3)\n\nSo, the answer is: **4**'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 4 subnetworks (or subnets) in your network:\n\n- `100.0.0.0/24` (r1)\n- `150.0.0.0/30` (r1 and r2)\n- `200.0.0.0/30` (r1, r2, and r3)\n- `220.0.0.0/24` (r3)'}

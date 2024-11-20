@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': "\nThere are 2 nodes in the network:\n\n1. client (id = 'client')\n2. server (id = 'server')"}
+{'ID': 'T1', 'topic': 'Network size', 'result': "\nThere are 2 nodes in the network:\n\n1. Client (id: 'client')\n2. Server (id: 'server')"}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 2 nodes in the network:\n\n1. client\n2. server'}
+{'ID': 'T1', 'topic': 'Network size', 'result': "\nThere are 2 nodes in the network:\n\n1. Client (id = 'client')\n2. Server (id = 'server')"}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 2 nodes in the network:\n\n1. client\n2. server'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 2 nodes in the network:\n\n1. client\n2. server'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 2 nodes in the network:\n\n1. client\n2. server'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 2 nodes in the network:\n\n1. client\n2. server'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 2 nodes in the network:\n\n1. client\n2. server'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 2 nodes in the network: "client" and "server".'}

@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 4 IP addresses assigned to devices in the given network:\n\n* 100.0.0.1/24 (assigned to r1)\n* 150.0.0.1/30 (assigned to r1 and r2)\n* 200.0.0.2/30 (assigned to r2 and r3)\n* 220.0.0.1/24 (assigned to r3)'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 3 IP addresses assigned to devices in the given network:\n\n1. `100.0.0.1/24` (assigned to device `r1`)\n2. `150.0.0.1/30` (assigned to device `r1`)\n3. `200.0.0.2/30` (assigned to device `r2`)\n\nTherefore, the answer is 3.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 3 IP addresses assigned to devices in the network:\n\n* 100.0.0.1/24\n* 150.0.0.1/30\n* 200.0.0.2/30'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 4 IP addresses assigned to devices in the network:\n\n* 100.0.0.1/24\n* 150.0.0.1/30\n* 200.0.0.2/30\n* 220.0.0.1/24'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 3 IP addresses assigned to devices in the given network:\n\n* 100.0.0.1/24\n* 150.0.0.1/30\n* 200.0.0.2/30'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 4 IP addresses assigned to devices in the network:\n\n* 100.0.0.1/24\n* 150.0.0.1/30\n* 200.0.0.2/30\n* 220.0.0.1/24'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 4 IP addresses assigned to devices in the network:\n\n* 100.0.0.1/24 (assigned to r1)\n* 150.0.0.1/30 (assigned to r1 and r2)\n* 200.0.0.2/30 (assigned to r2 and r3)\n* 200.0.1.2/30 (assigned to r3)'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 4 IP addresses assigned to devices in the given network:\n\n* 100.0.0.1/24 (assigned to r1)\n* 150.0.0.1/30 (assigned to r1 and r2)\n* 200.0.0.1/30 (assigned to r1 and r2)\n* 200.0.1.2/30 (assigned to r3)'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 4 IP addresses assigned to devices in the network:\n\n* 100.0.0.1/24\n* 150.0.0.1/30\n* 200.0.0.2/30\n* 220.0.0.1/24'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 4 IP addresses assigned to devices in the given network:\n\n* 100.0.0.1/24\n* 150.0.0.1/30\n* 200.0.0.2/30\n* 200.0.1.2/30'}

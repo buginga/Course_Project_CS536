@@ -1,0 +1,1 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 4 IP addresses assigned to devices in the network. \n\n- The client has 2 IPs: \n  - 10.0.0.1/16 \n  - fe80::1:abcd \n- The server also has 2 IPs: \n  - 10.0.1.1/16 \n  - fe80::2:abcd \n\nTotal: 2 (client) + 2 (server) = 4.'}

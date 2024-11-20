@@ -1,0 +1,10 @@
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': "No. \n\nThe link between client and server is bidirectional, but there's no indication that the link allows ICMP traffic (ping requests). The cost of the link is also not relevant here."}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': 'No.'}

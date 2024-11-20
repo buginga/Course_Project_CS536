@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 3 nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 3 nodes in the network based on the information provided in the given dictionary.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' Based on the provided data, there are 3 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' Based on the provided data, there are 3 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 3 nodes in the network based on the information provided in the given dictionary.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 3 nodes in the network based on the information provided in the given dictionary.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 3 nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 3 nodes in the network based on the given information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 3 nodes in the network based on the information provided in the given network definition.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 3 nodes in the network based on the information provided in the given dictionary.'}

@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned in the network. The IPv6 address `fe80::1:abcd` is assigned to the `client` node.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned in the network: `fe80::1:abcd` to the client node.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned in the network. The `fe80::1` prefix is an IPv6 address that is assigned to the `server` node.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned in the network. The IPv6 address "fe80::1:abcd" is assigned to the node with ID "client".'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned in the network. The node with ID "server" has an IPv6 local address of "fe80::2:abcd".'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned in the network. The client node has an IPv6 address `fe80::1:abcd`, and the server node has an IPv6 address `fe80::2:abcd`.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there are two IPv6 addresses assigned in the network:\n\n* `fe80::1:abcd` is assigned to the `client` node.\n* `fe80::2:abcd` is assigned to the `server` node.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there are two IPv6 addresses assigned in the network:\n\n* `fe80::1:abcd` is assigned to the `client` node.\n* `fe80::2:abcd` is assigned to the `server` node.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there are two IPv6 addresses assigned in the network:\n\n* `fe80::1:abcd` is assigned to the `client` node.\n* `fe80::2:abcd` is assigned to the `server` node.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nYes, there is one IPv6 address assigned in the network. The IPv6 address `fe80::1:abcd` is assigned to the `client` node.'}

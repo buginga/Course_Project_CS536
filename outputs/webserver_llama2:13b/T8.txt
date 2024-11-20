@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': "\nThere are 2 subnetworks in your network, based on the given configuration:\n\n1. The client's local addresses are assigned from the 10.0.0.0/16 subnet.\n2. The server's local addresses are assigned from the 10.0.1.0/16 subnet."}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere is 1 subnetwork in your network, which is the subnetwork associated with the IP address `10.0.0.1/16` on the client node.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': "\nBased on the provided network configuration, there is one subnetwork in your network, which is the subnet associated with the server's local address '10.0.1.1/16'."}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 2 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere is 1 subnetwork in your network, which is the subnetwork associated with the IP address `10.0.0.1/16`.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere is one subnetwork in your network, which is the subnetwork associated with the IP address 10.0.0.1/16 on the client node.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere is 1 subnetwork in your network, which is the subnetwork associated with the local address `10.0.0.1/16` on the client node.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 2 subnetworks in your network.'}

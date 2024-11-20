@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': "7 subnetworks. \n\n('10.0.2.3/24' and '10.0.0.3/24' are the same subnet), ('100.0.0.1/30', '10.0.3.1/24', '110.0.0.1/30', '10.0.0.1/24') are the same subnet, ('130.0.0.1/30', '120.0.0.1/30', '10.0.1.1/24', '10.0.0.2/24') are the same subnet, ('140.0.0.1/30', '10.0.1.2/24', '10.0.2.2/24') are the same subnet, ('10.0.2.1/24', '10.0.3.2/24') are the same subnet, and all others are separate subnetworks.)"}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '9'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '7'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '5'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '15'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '8'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '10'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '13'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '10'}

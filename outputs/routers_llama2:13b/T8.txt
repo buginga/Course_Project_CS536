@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 3 subnetworks in your network, as follows:\n\n1. 100.0.0.1/24 (connected to r1)\n2. 150.0.0.2/30 (connected to r2)\n3. 200.0.0.2/30 (connected to r3)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 3 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 3 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 3 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 3 subnetworks in your network:\n\n1. 100.0.0.1/24 (connected to r1)\n2. 150.0.0.2/30 (connected to r2)\n3. 200.0.0.2/30 (connected to r3)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 3 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nBased on the given network, there are 3 subnetworks:\n\n1. 100.0.0.1/24 (connected to r1)\n2. 150.0.0.2/30 (connected to r2)\n3. 200.0.0.2/30 (connected to r3)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 3 subnetworks in your network, as follows:\n\n1. 100.0.0.1/24\n2. 150.0.0.2/30\n3. 200.0.0.2/30'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 3 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nBased on the given network configuration, there are 3 subnetworks in your network:\n\n1. Subnetwork of r1 with IP range 100.0.0.1/24\n2. Subnetwork of r2 with IP range 150.0.0.2/30\n3. Subnetwork of r3 with IP range 200.0.0.2/30'}

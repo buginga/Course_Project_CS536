@@ -1,0 +1,10 @@
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop because there are no direct links between them.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop. The networks of r1 and r3 are not directly connected, so there is no direct path for a packet to travel from r1 to r3.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop because there are no directly connected links between them.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop because there are no directly connected interfaces between r1 and r3.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop because there are no direct connections between them.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop. The local addresses of r1 do not include any addresses that are directly reachable from r3.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop because there are no direct connections between r1 and r3.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop. The local addresses of r1 do not match any of the addresses of r3, so there is no direct path between the two routers.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop because there are no direct connections between r1 and r3.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for r1 to ping r3 without any hop because there are no direct connections between them.'}

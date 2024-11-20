@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '12 \n'}

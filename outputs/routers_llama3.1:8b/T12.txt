@@ -1,0 +1,10 @@
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes. R2 and R3 are in the same subnet (200.0.0.0/30).'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': "Yes. R2 has a /30 address 200.0.0.1/30 which is on the same subnet as R3's /24 220.0.0.1/24, but they are not in the same subnet. However, R2 also has another address 150.0.0.2/30 that is on the same subnet as R3's /24 220.0.0.1/24"}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes. R2 and R3 have addresses on the same subnet, 200.0.0.0/30, which means they are directly connected and can communicate without a router in between.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}

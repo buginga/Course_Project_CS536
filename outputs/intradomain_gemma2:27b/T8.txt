@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': "14 \n\n\nHere's how to determine the number of subnets:\n\n* **Count Unique CIDR Blocks:** Each local_address entry represents a subnet. Count the unique CIDR notations (e.g., '10.0.2.3/24', '100.0.0.1/30') across all nodes. \n"}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '12 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14 \n'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are **15** subnetworks in your network. \n\n\nYou can determine this by counting the unique CIDR notations across all nodes:\n\n* **10.0.0.0/24:** Appears on bb0, bb1 and bb2\n* **10.0.1.0/24:** Appears on bb2 and bb3\n* **10.0.2.0/24:** Appears on bb0 and bb3\n* **10.0.3.0/24:** Appears on bb1 and bb4\n* **100.0.0.0/30:** Appears on bb1 and r1\n* **110.0.0.0/30:** Appears on bb1 and r3\n* **120.0.0.0/30:** Appears on bb2 and r3\n* **130.0.0.0/30:** Appears on bb2 and r5\n* **140.0.0.0/30:** Appears on bb3 and as100r1\n\n'}
