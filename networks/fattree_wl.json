@@ -1,0 +1,309 @@
+{
+  "type": "NetworkGraph",
+  "nodes": [
+    {
+      "id": "core1",
+      "type": "core",
+      "local_addresses": [
+        "10.0.0.1/24",
+        "10.1.0.1/24",
+        "10.2.0.1/24"
+      ]
+    },
+    {
+      "id": "core2",
+      "type": "core",
+      "local_addresses": [
+        "10.0.0.2/24",
+        "10.1.0.2/24",
+        "10.2.0.2/24"
+      ]
+    },
+    {
+      "id": "pod0_aggr1",
+      "type": "aggregation",
+      "local_addresses": [
+        "10.0.0.10/24",
+        "10.0.1.1/24",
+        "10.0.2.1/24"
+      ]
+    },
+    {
+      "id": "pod0_aggr2",
+      "type": "aggregation",
+      "local_addresses": [
+        "10.0.0.11/24",
+        "10.0.1.2/24",
+        "10.0.2.2/24"
+      ]
+    },
+    {
+      "id": "pod1_aggr1",
+      "type": "aggregation",
+      "local_addresses": [
+        "10.1.0.10/24",
+        "10.1.1.1/24",
+        "10.1.2.1/24"
+      ]
+    },
+    {
+      "id": "pod1_aggr2",
+      "type": "aggregation",
+      "local_addresses": [
+        "10.1.0.11/24",
+        "10.1.1.2/24",
+        "10.1.2.2/24"
+      ]
+    },
+    {
+      "id": "pod0_edge1",
+      "type": "edge",
+      "local_addresses": [
+        "10.0.1.10/24",
+        "10.0.3.1/24"
+      ]
+    },
+    {
+      "id": "pod0_edge2",
+      "type": "edge",
+      "local_addresses": [
+        "10.0.2.10/24",
+        "10.0.4.1/24"
+      ]
+    },
+    {
+      "id": "pod1_edge1",
+      "type": "edge",
+      "local_addresses": [
+        "10.1.1.10/24",
+        "10.1.3.1/24"
+      ]
+    },
+    {
+      "id": "pod1_edge2",
+      "type": "edge",
+      "local_addresses": [
+        "10.1.2.10/24",
+        "10.1.4.1/24"
+      ]
+    },
+    {
+      "id": "pod0_server1",
+      "type": "server",
+      "local_addresses": [
+        "10.0.3.10/24"
+      ]
+    },
+    {
+      "id": "pod0_server2",
+      "type": "server",
+      "local_addresses": [
+        "10.0.3.11/24"
+      ]
+    },
+    {
+      "id": "pod0_server3",
+      "type": "server",
+      "local_addresses": [
+        "10.0.4.10/24"
+      ]
+    },
+    {
+      "id": "pod0_server4",
+      "type": "server",
+      "local_addresses": [
+        "10.0.4.11/24"
+      ]
+    },
+    {
+      "id": "pod1_server1",
+      "type": "server",
+      "local_addresses": [
+        "10.1.3.10/24"
+      ]
+    },
+    {
+      "id": "pod1_server2",
+      "type": "server",
+      "local_addresses": [
+        "10.1.3.11/24"
+      ]
+    },
+    {
+      "id": "pod1_server3",
+      "type": "server",
+      "local_addresses": [
+        "10.1.4.10/24"
+      ]
+    },
+    {
+      "id": "pod1_server4",
+      "type": "server",
+      "local_addresses": [
+        "10.1.4.11/24"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "core1",
+      "target": "pod0_aggr1",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.0.0/24"
+      }
+    },
+    {
+      "source": "core1",
+      "target": "pod1_aggr1",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.0.0/24"
+      }
+    },
+    {
+      "source": "core2",
+      "target": "pod0_aggr2",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.0.0/24"
+      }
+    },
+    {
+      "source": "core2",
+      "target": "pod1_aggr2",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.0.0/24"
+      }
+    },
+    {
+      "source": "pod0_aggr1",
+      "target": "pod0_edge1",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.1.0/24"
+      }
+    },
+    {
+      "source": "pod0_aggr1",
+      "target": "pod0_edge2",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.2.0/24"
+      }
+    },
+    {
+      "source": "pod0_aggr2",
+      "target": "pod0_edge1",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.1.0/24"
+      }
+    },
+    {
+      "source": "pod0_aggr2",
+      "target": "pod0_edge2",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.2.0/24"
+      }
+    },
+    {
+      "source": "pod1_aggr1",
+      "target": "pod1_edge1",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.1.0/24"
+      }
+    },
+    {
+      "source": "pod1_aggr1",
+      "target": "pod1_edge2",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.2.0/24"
+      }
+    },
+    {
+      "source": "pod1_aggr2",
+      "target": "pod1_edge1",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.1.0/24"
+      }
+    },
+    {
+      "source": "pod1_aggr2",
+      "target": "pod1_edge2",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.2.0/24"
+      }
+    },
+    {
+      "source": "pod0_edge1",
+      "target": "pod0_server1",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.3.0/24"
+      }
+    },
+    {
+      "source": "pod0_edge1",
+      "target": "pod0_server2",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.3.0/24"
+      }
+    },
+    {
+      "source": "pod0_edge2",
+      "target": "pod0_server3",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.4.0/24"
+      }
+    },
+    {
+      "source": "pod0_edge2",
+      "target": "pod0_server4",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.0.4.0/24"
+      }
+    },
+    {
+      "source": "pod1_edge1",
+      "target": "pod1_server1",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.3.0/24"
+      }
+    },
+    {
+      "source": "pod1_edge1",
+      "target": "pod1_server2",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.3.0/24"
+      }
+    },
+    {
+      "source": "pod1_edge2",
+      "target": "pod1_server3",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.4.0/24"
+      }
+    },
+    {
+      "source": "pod1_edge2",
+      "target": "pod1_server4",
+      "cost": 1,
+      "properties": {
+        "subnet": "10.1.4.0/24"
+      }
+    }
+  ]
+}
