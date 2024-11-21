@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}
+{'ID': 'T1', 'topic': 'Network size', 'result': 'There are 5 nodes in the network:\n\n1. core_switch1\n2. core_switch2\n3. server1\n4. server2\n5. server3'}

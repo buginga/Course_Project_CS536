@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '9'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '14'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '3 \n\nThere are 2 core nodes, each with a /24 subnet (10.0.0.1/24 and 10.0.2.1/24). There are also 4 aggregation nodes, each with a /24 subnet (e.g., 10.0.0.10/24), and 4 edge nodes, each with a /24 subnet (e.g., 10.0.10.10/24).'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '4'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '3 \n\nThere are 3 types of nodes: core, aggregation (aggr), and edge. Each type of node is considered a separate subnetwork.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '15'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '7'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '3'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '3'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 12 subnetworks (or "local addresses") in your network: \n\n1. `10.0.0.1/24` \n2. `10.0.1.1/24`\n3. `fe80::1:abcd`\n4. `10.0.0.10/24`\n5. `10.0.10.1/24`\n6. `10.0.11.1/24`\n7. `10.0.2.11/24`\n8. `10.0.12.1/24`\n9. `10.0.13.1/24`\n10. `10.0.1.10/24`\n11. `10.0.20.1/24`\n12. `10.0.3.11/24`\n\nSo, the answer is: 12'}

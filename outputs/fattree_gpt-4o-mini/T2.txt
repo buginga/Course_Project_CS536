@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are a total of 28 IP addresses assigned to devices in the network structure.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 38 IP addresses assigned to devices in the given network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 36 IP addresses assigned to devices in the given network structure.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 32 IP addresses assigned to devices in the given network structure.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 24 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 28 IP addresses assigned to devices in the given network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '34'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 38 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 28 IP addresses assigned to devices in the given network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 32 IP addresses assigned to devices in the given network.'}

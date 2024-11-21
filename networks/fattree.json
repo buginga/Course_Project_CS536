@@ -1,5 +1,6 @@
 {
   "type": "NetworkGraph",
+  "network": "fattree",
   "nodes": [
     {
       "id": "core1",

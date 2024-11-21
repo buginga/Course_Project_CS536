@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network based on the provided configuration.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network. (1 core, 2 aggregation, 6 edge, and 6 server nodes)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network. (1 core, 6 aggregation, 4 edge, and 4 server nodes)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network. (1 core, 2 aggregation, 6 edge, and 6 server nodes)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network. (1 core, 2 aggregation, 6 edge, and 6 server nodes)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 16 nodes in the network. (1 core, 2 aggregation, 2 edge, and 11 server nodes)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network. (core1, core2, pod1\\_aggr1, pod1\\_aggr2, pod1\\_edge1, pod1\\_edge2, pod2\\_aggr1, pod2\\_aggr2, pod2\\_edge1, pod2\\_edge2, server1, server2, server3, server4, server5, server6, server7, server8)'}

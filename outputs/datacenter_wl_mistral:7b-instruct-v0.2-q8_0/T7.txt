@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the assigned local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses are in IPv4 format.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses assigned to nodes are of IPv4 format.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses assigned to nodes are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No, there are no IPv6 addresses assigned in the given network configuration. All the local addresses are IPv4 addresses.'}

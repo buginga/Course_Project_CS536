@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network. (1 core, 3 aggregation, 3 edge, and 8 servers)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are a total of 15 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network. (1 core, 3 aggregation, 3 edge, and 8 servers)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 16 nodes in the network based on the provided information.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network. (1 core, 3 aggregation, 3 edge, and 8 server nodes)'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 16 nodes in the network based on the provided data.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are 15 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are a total of 15 nodes in the network.'}
+{'ID': 'T1', 'topic': 'Network size', 'result': ' There are a total of 15 nodes in the network.'}

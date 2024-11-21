@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network. Each unique subnet derived from the addresses has a different network prefix, and the addresses can be classified as follows:\n\n1. 10.0.0.0/24\n2. 10.0.1.0/24\n3. 10.0.2.0/24\n4. 10.0.3.0/24\n5. 10.1.0.0/24\n6. 10.1.1.0/24\n7. 10.1.2.0/24\n8. 10.1.3.0/24\n9. 10.10.10.0/24 (separate network for core switches)\n10. 10.10.10.0/24 (used in both core switches but counts as one subnetwork)\n\nThus, the count is 10.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 subnetworks in your network.'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': 'There are 10 unique subnetworks in your network.'}

@@ -1,0 +1,10 @@
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1, ..., server8'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}
+{'ID': 'T1', 'topic': 'Network size', 'result': '\nThere are 9 nodes in the network:\n\n1. core1\n2. core2\n3. pod1_aggr1\n4. pod1_aggr2\n5. pod2_aggr1\n6. pod2_aggr2\n7. pod1_edge1\n8. pod1_edge2\n9. server1'}

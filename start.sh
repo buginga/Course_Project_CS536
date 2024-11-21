@@ -3,7 +3,7 @@
 # Directory containing files
 DIRECTORY="networks"
 ORIGINAL_NETWORKS="intradomain_wl.json intradomain.json routers_wl.json routers.json webserver_wl.json webserver.json"
-EXTEND_NETWORKS="datacenter_wl.json datacenter.json fattree_wl.json"
+EXTEND_NETWORKS="datacenter_wl.json datacenter.json fattree_wl.json fattree.json"
 
 # Array of elements
 OLLAMA_MODELS="llama2:7b llama2:13b mistral:7b-instruct-v0.2-q8_0 gemma2:27b llama3.1:8b"

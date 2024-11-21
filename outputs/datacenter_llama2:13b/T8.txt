@@ -1,0 +1,10 @@
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. 10.0.0.0/24 (core_switch1)\n2. 10.1.0.0/24 (core_switch2)\n3. 10.0.1.0/24 (server1)\n4. 10.1.1.0/24 (server2)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. `10.0.0.1/24`\n2. `10.1.0.1/24`\n3. `10.0.1.1/24`\n4. `10.1.1.1/24`'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. `10.0.0.1/24`\n2. `10.1.0.1/24`\n3. `10.0.1.1/24`\n4. `10.1.1.1/24`'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. `10.0.0.1/24`\n2. `10.1.0.1/24`\n3. `10.0.2.1/24`\n4. `10.1.2.20/24`'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. 10.0.0.1/24 (associated with core_switch1)\n2. 10.1.0.1/24 (associated with core_switch2)\n3. 10.0.1.10/24 (associated with server1)\n4. 10.1.1.11/24 (associated with server2)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. 10.0.0.0/24 (assigned to core_switch1)\n2. 10.1.0.0/24 (assigned to core_switch2)\n3. 10.0.1.0/24 (assigned to server1 and server2)\n4. 10.0.2.0/24 (assigned to server3 and server4)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. `10.0.0.0/24` (core switch 1)\n2. `10.1.0.0/24` (core switch 2)\n3. `10.0.1.0/24` (server 1)\n4. `10.0.2.0/24` (server 2)\n5. `10.0.3.0/24` (server 3)\n6. `10.1.2.0/24` (server 4)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. 10.0.0.1/24 (associated with core_switch1)\n2. 10.1.0.1/24 (associated with core_switch2)\n3. 10.0.1.10/24 (associated with server1)\n4. 10.1.1.11/24 (associated with server2)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network:\n\n1. 10.0.0.0/24 (core_switch1)\n2. 10.1.0.0/24 (core_switch2)\n3. 10.0.1.0/24 (server1)\n4. 10.0.2.0/24 (server2)\n5. 10.0.3.0/24 (server3)\n6. 10.1.2.0/24 (server4)'}
+{'ID': 'T8', 'topic': 'Subnetting', 'result': '\nThere are 4 subnetworks in your network.'}

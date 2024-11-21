@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 32 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 40 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 36 IP addresses assigned to devices in the given network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are a total of 31 IP addresses assigned to devices in the given network structure.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are a total of 26 IP addresses assigned to devices in the given network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 24 IP addresses assigned to devices in the given network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 32 unique IP addresses assigned to devices in the given network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': "There are a total of 40 IP addresses assigned to devices in the network.\n\nHere's the breakdown by device type:\n\n- core1: 3 IPs\n- core2: 3 IPs\n- pod1_aggr1: 3 IPs\n- pod1_aggr2: 3 IPs\n- pod2_aggr1: 3 IPs\n- pod2_aggr2: 3 IPs\n- pod1_edge1: 4 IPs\n- pod1_edge2: 4 IPs\n- pod2_edge1: 4 IPs\n- pod2_edge2: 4 IPs\n- server1: 1 IP\n- server2: 1 IP\n- server3: 1 IP\n- server4: 1 IP\n- server5: 1 IP\n- server6: 1 IP\n- server7: 1 IP\n- server8: 1 IP\n\nCalculating these gives:\n\n3 + 3 + 3 + 3 + 3 + 3 + 4 + 4 + 4 + 4 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 40 IP addresses."}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 37 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 36 IP addresses assigned to devices in the network.'}
