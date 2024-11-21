@@ -3,3 +3,4 @@ intradomain,12,30,"bb1,bb2",yes,yes,no,15,yes,10.0.0.0/24,no,yes,bb1,bb3,bb1,bb2
 routers,3,8,"r1,r2",no,yes,no,5,yes,200.0.0.0/30,no,yes,r1,r3,r2,r3
 webserver,2,4,"client,server",yes,yes,yes,2,yes,"10.0.0.0/16,f80:::/10",yes,yes,client,server,client,server
 datacenter,6,14,"core_switch1,core_switch2",yes,yes,no,3,yes,"10.0.1.0/24,10.0.2.0/24",no,yes,app_server1,app_server2,app_server1,core_switch1
+fattree,18,42,"pod1_edge1,pod1_edge2,pod2_edge1,pod2_edge2",yes,yes,yes,20,yes,10.0.0.0/24,no,yes,core2,pod2_edge1,core1,pod1_aggr1

@@ -7,43 +7,47 @@
           "local_addresses": [
               "10.0.0.1/24",
               "10.0.1.1/24",
-              "10.0.2.1/24"
+              "10.0.2.1/24",
+              "10.0.3.1/24",
+              "10.10.10.1/24"
           ]
       },
       {
           "id": "core_switch2",
           "local_addresses": [
-              "10.0.0.2/24",
-              "10.0.1.2/24",
-              "10.0.2.2/24"
+              "10.1.0.1/24",
+              "10.1.1.1/24",
+              "10.1.2.1/24",
+              "10.1.3.1/24",
+              "10.10.10.2/24"
           ]
       },
       {
-          "id": "app_server1",
+          "id": "server1",
           "local_addresses": [
-              "10.0.1.10/24",
-              "10.0.2.10/24"
+              "10.0.0.10/24",
+              "10.1.0.10/24"
           ]
       },
       {
-          "id": "app_server2",
+          "id": "server2",
           "local_addresses": [
               "10.0.1.11/24",
-              "10.0.2.11/24"
+              "10.1.1.11/24"
           ]
       },
       {
-          "id": "db_server1",
+          "id": "server3",
           "local_addresses": [
-              "10.0.1.20/24",
-              "10.0.2.20/24"
+              "10.0.2.20/24",
+              "10.1.2.20/24"
           ]
       },
       {
-          "id": "db_server2",
+          "id": "server4",
           "local_addresses": [
-              "10.0.1.21/24",
-              "10.0.2.21/24"
+              "10.0.3.21/24",
+              "10.1.3.21/24"
           ]
       }
   ],
@@ -52,73 +56,55 @@
           "source": "core_switch1",
           "target": "core_switch2",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.0.0/24"
-          }
+          "bidirectional": true
       },
       {
           "source": "core_switch1",
-          "target": "app_server1",
+          "target": "server1",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.1.0/24"
-          }
+          "bidirectional": true
       },
       {
           "source": "core_switch1",
-          "target": "app_server2",
+          "target": "server2",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.1.0/24"
-          }
+          "bidirectional": true
       },
       {
           "source": "core_switch1",
-          "target": "db_server1",
+          "target": "server3",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.1.0/24"
-          }
+          "bidirectional": true
       },
       {
           "source": "core_switch1",
-          "target": "db_server2",
+          "target": "server4",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.1.0/24"
-          }
+          "bidirectional": true
       },
       {
           "source": "core_switch2",
-          "target": "app_server1",
+          "target": "server1",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.2.0/24"
-          }
+          "bidirectional": true
       },
       {
           "source": "core_switch2",
-          "target": "app_server2",
+          "target": "server2",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.2.0/24"
-          }
+          "bidirectional": true
       },
       {
           "source": "core_switch2",
-          "target": "db_server1",
+          "target": "server3",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.2.0/24"
-          }
+          "bidirectional": true
       },
       {
           "source": "core_switch2",
-          "target": "db_server2",
+          "target": "server4",
           "cost": 1,
-          "properties": {
-              "subnet": "10.0.2.0/24"
-          }
+          "bidirectional": true
       }
   ]
 }
