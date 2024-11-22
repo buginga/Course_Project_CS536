@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The network includes IPv6 addresses, specifically for the link-local addresses of each node.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The core nodes have IPv6 local addresses assigned.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The core nodes have IPv6 addresses assigned in their local\\_addresses list.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The network includes IPv6 addresses for the core switches. For example, core1 has the local address fe80::1:abcd.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The nodes "core1", "core2", and all the aggregation, edge, and server nodes have both IPv4 and IPv6 local addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': " Yes. The nodes with IDs 'core1', 'core2', 'pod1\\_aggr1', 'pod1\\_aggr2', 'pod2\\_aggr1', 'pod2\\_aggr2', 'pod1\\_edge1', 'pod1\\_edge2', 'pod2\\_edge1', and 'pod2\\_edge2' have IPv6 local addresses assigned."}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The nodes with IDs core1, core2, and all the aggregation, edge, and server nodes have both IPv4 and IPv6 local addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': " Yes. The nodes with IDs 'core1' and 'core2' have both IPv4 and IPv6 local addresses. All other nodes in the network have only IPv4 local addresses."}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The network includes IPv6 addresses in the local\\_addresses of some nodes, specifically core1 and core2.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': " Yes. The network contains IPv6 addresses in the local\\_addresses of some nodes, such as 'fe80::1:abcd' and 'fe80::2:abcd'."}

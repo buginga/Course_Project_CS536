@@ -1,0 +1,10 @@
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for core2 to ping pod2_edge1 without any hop.'}

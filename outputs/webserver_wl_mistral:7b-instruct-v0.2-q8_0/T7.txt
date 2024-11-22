@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The client node has an IPv6 local address (fe80::1:abcd) and the server node also has an IPv6 local address (fe80::2:abcd).'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The nodes in the network have both IPv4 and IPv6 local addresses assigned to them.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}

@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core_switch1', 'server3']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core_switch1', 'server3']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core_switch1', 'server3', 'server4']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core_switch1', 'server3']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core_switch1', 'server3']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core_switch1', 'server3', 'server4']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core_switch1', 'server3']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nSure! Based on the given network graph, the devices with the most IP addresses assigned are:\n\n['core_switch1', 'core_switch2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe nodes with the most IP addresses assigned are:\n\n['core_switch1', 'server3']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core_switch1', 'server3', 'server4']"}

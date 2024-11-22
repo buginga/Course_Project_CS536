@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- client \n- server'}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['client', 'server'] \n"}

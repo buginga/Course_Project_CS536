@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.3.0/24\n* 110.0.0.0/30\n* 120.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.3.0/24\n* 110.0.0.0/30\n* 120.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 100.0.0.0/30\n* 110.0.0.0/30\n* 120.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.3.0/24\n* 110.0.0.0/30\n* 120.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.2.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.3.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.3.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.3.0/24\n* 110.0.0.0/30\n* 120.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.3.0/24\n* 110.0.0.0/30\n* 120.0.0.0/30'}

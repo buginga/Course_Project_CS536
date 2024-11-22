@@ -1,0 +1,10 @@
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for the client to ping the server without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}

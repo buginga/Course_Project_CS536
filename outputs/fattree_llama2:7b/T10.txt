@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24 (core1)\n* 10.0.10.0/24 (pod1_aggr1)'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* fe80::1/64'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* fe80::1/64'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24 (connects core1 to pod1_aggr1)'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24 (core1)\n* 10.0.10.0/24 (pod1_aggr1)'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24 (core1)\n* 10.0.10.0/24 (pod1_aggr1)'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* fe80::1/64'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* fe80::1:abcd'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* fe80::1/64'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* fe80::1:abcd'}

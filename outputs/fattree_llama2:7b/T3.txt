@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core1\n* core2\n* pod1_aggr1\n* pod1_aggr2\n* pod2_aggr1\n* pod2_aggr2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* `core1` - 3 IP addresses\n* `core2` - 3 IP addresses\n* `pod1_aggr1` - 3 IP addresses\n* `pod1_aggr2` - 3 IP addresses\n* `pod2_aggr1` - 3 IP addresses\n* `pod2_aggr2` - 3 IP addresses'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* pod1_aggr1\n* pod1_edge1\n* pod2_aggr1\n* pod2_edge1'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core1\n* core2\n* pod1_aggr1\n* pod1_aggr2\n* pod2_aggr1\n* pod2_aggr2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core1\n* pod1_aggr1\n* pod2_aggr1\n* server5'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core1\n* core2\n* pod1_aggr1\n* pod1_aggr2\n* pod2_aggr1\n* pod2_aggr2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nThe following devices have the most IP addresses assigned:\n\n* pod1_aggr1 (3 IP addresses)\n* pod2_aggr1 (3 IP addresses)\n* server6 (3 IP addresses)'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core1\n* core2\n* pod1_aggr1\n* pod1_aggr2\n* pod2_aggr1\n* pod2_aggr2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core1\n* core2\n* pod1_aggr1\n* pod1_edge1\n* pod2_aggr1\n* pod2_edge1'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core1\n* core2\n* pod1_aggr1\n* pod1_aggr2\n* pod2_aggr1\n* pod2_aggr2'}

@@ -1,0 +1,10 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* bb1\n* bb2\n* r1\n* r3\n* r5\n\nAll other devices have only one IP address assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* bb1 (has 4 IP addresses)\n* r1 (has 2 IP addresses)\n* r3 (has 3 IP addresses)\n* r5 (has 3 IP addresses)\n\nAll other devices have only one IP address assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* BB1 (has 4 IP addresses)\n* R1 (has 2 IP addresses)\n* R3 (has 3 IP addresses)\n* R5 (has 3 IP addresses)\n\nAll other devices have only one IP address assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* bb1\n* r1\n* r2\n* r3\n* r4\n* r5\n* r6'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* bb1\n* r1\n* r2\n* r3\n* r4\n* r5\n* r6'}

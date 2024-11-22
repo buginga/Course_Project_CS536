@@ -1,0 +1,10 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': ' Yes, both the client and server nodes have multiple IP addresses assigned to them.'}

@@ -1,0 +1,10 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The client device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The client device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The "client" device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The "client" device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The client device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The "client" device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The client device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The "client" device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes. The client device has two IP addresses assigned to it: 10.0.0.1/16 and fe80::1:abcd.'}

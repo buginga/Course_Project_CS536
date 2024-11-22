@@ -1,0 +1,10 @@
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and pod1\\_aggr1 are separate devices connected by a link in the network, so there will always be at least one hop between them for data to travel.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and pod1\\_aggr1 are connected by a link, so they are separate nodes in the network and cannot be directly reached without traversing that link.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and pod1\\_aggr1 are separate devices connected by a link in the network. Therefore, there will always be at least one hop between them when sending a ping packet.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. The network topology shows that core1 and pod1\\_aggr1 are connected by a link, so there will always be at least one hop between them.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and pod1\\_aggr1 are different types of nodes in the network, and they are connected by a link. Therefore, there will always be at least one hop between them when transmitting packets.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and pod1\\_aggr1 are separate devices connected by a link, so there will always be at least one hop between them in this network configuration.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and pod1\\_aggr1 are different types of nodes in the network, and they are connected by a link. Therefore, there will always be at least one hop between them when transmitting packets.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and pod1\\_aggr1 are connected by a link, so there will always be at least one hop between them in this network configuration.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and pod1\\_aggr1 are separate devices in the network, so there will always be at least one hop between them.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': ' No. Core1 and Pod1\\_aggr1 are separate devices connected by a link in the network, so there will always be at least one hop between them.'}

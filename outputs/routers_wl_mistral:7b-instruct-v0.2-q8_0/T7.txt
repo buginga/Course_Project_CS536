@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network and nodes in the given data use IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network and its nodes use IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The given network uses IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network uses IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network uses IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network and nodes in the given configuration use IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network uses IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The given network definition uses IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network uses IPv4 addresses only.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network uses IPv4 addresses only.'}

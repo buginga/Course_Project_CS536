@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. All the local addresses in the network are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network uses only IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. All the IP addresses in the given network are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. All the local addresses in the network are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network uses only IPv4 addresses in the given configuration.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network defined in the given JSON only contains IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network uses only IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network definition only includes IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. All the local addresses in the given network are IPv4 addresses.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' No. The network defined in the given JSON uses only IPv4 addresses.'}

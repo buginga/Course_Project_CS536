@@ -1,0 +1,10 @@
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in the given network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in the given network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in the given network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in the given network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in the given network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in the given network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in the given network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in this network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo, there are no devices with special-purpose IP addresses (e.g., multicast addresses) in the given network.'}
+{'ID': 'T5', 'topic': 'IP addressing ', 'result': '\nNo.'}

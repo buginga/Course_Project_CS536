@@ -1,0 +1,10 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo. All devices have one IP address assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}

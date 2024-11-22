@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': '\nNo, there are no IPv6 addresses assigned in the given network.'}

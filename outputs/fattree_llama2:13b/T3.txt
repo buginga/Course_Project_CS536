@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe nodes with the most IP addresses assigned are:\n\n['core1', 'pod1_aggr1', 'pod1_edge1', 'server1', 'server3', 'server5']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe nodes with the most IP addresses assigned are:\n\n['core1', 'core2', 'pod1_aggr1', 'pod1_aggr2', 'pod2_aggr1', 'pod2_aggr2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nBased on the given network topology, the devices with the most IP addresses assigned are:\n\n['core1', 'pod1_aggr1', 'pod1_edge1', 'server1', 'server3', 'server5']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nBased on the given network topology, the following nodes have the most IP addresses assigned:\n\n['core1', 'pod1_aggr1', 'pod1_edge1', 'server1', 'server3', 'server5']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nBased on the given network configuration, the following devices have the most IP addresses assigned:\n\n* core1 (3 IP addresses)\n* pod1_aggr1 (3 IP addresses)\n* pod1_aggr2 (3 IP addresses)\n* server5 (3 IP addresses)'}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nBased on the given network configuration, the following nodes have the most IP addresses assigned:\n\n['core1', 'pod1_aggr1', 'pod1_edge1', 'server1', 'server3', 'server5']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe nodes with the most IP addresses assigned are:\n\n['core1', 'core2', 'pod1_aggr1', 'pod1_aggr2', 'pod2_aggr1', 'pod2_aggr2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nBased on the given network topology, the following nodes have the most IP addresses assigned:\n\n['core1', 'pod1_aggr1', 'pod1_aggr2', 'server1', 'server3', 'server5']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nThe devices with the most IP addresses assigned are:\n\n['core1', 'pod1_aggr1', 'pod1_edge1', 'server1', 'server3', 'server5']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "\nBased on the given network configuration, the following nodes have the most IP addresses assigned:\n\n['core1', 'pod1_aggr1', 'pod1_edge1', 'server1', 'server2', 'server3', 'server4', 'server5', 'server6', 'server7', 'server8']"}

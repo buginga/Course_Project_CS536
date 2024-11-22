@@ -1,0 +1,10 @@
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo, it is not possible to remove one subnetwork and keep all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo, it is not possible to remove one subnetwork while keeping all the devices able to ping each other. The reason is that some devices are only reachable through the removed subnetwork.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo, it is not possible to remove one subnetwork while keeping all the devices able to ping each other. The reason is that some of the devices are connected to multiple subnetworks, and removing one subnetwork would disconnect some of the devices from each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo, it is not possible to remove one subnetwork while keeping all the devices able to ping each other. The reason is that some devices are connected to more than one subnetwork, and removing one of those subnetworks would disconnect some of the devices from each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo.'}

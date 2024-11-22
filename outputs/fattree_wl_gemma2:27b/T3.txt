@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2 \n'}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['pod1_edge1', 'pod1_edge2', 'pod2_edge1', 'pod2_edge2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['pod1_edge1', 'pod1_edge2', 'pod2_edge1', 'pod2_edge2'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['pod1_edge1', 'pod1_edge2', 'pod2_edge1', 'pod2_edge2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2 \n'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2 \n'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2 \n'}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['pod1_edge1', 'pod1_edge2', 'pod2_edge1', 'pod2_edge2'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['pod1_edge1', 'pod1_edge2', 'pod2_edge1', 'pod2_edge2'] \n"}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2 \n'}

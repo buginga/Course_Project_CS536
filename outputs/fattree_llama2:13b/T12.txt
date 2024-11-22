@@ -1,0 +1,10 @@
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes, it is possible for core1 to ping pod1_aggr1 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for core1 to ping pod1_aggr1 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for core1 to ping pod1_aggr1 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for core1 to ping pod1_aggr1 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for core1 to ping pod1_aggr1 without any hop.'}

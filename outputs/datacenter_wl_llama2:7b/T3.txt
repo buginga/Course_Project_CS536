@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3\n* server4'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3\n* server4'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3\n* server4'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3\n* server4'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* core_switch1\n* core_switch2\n* server1\n* server2\n* server3'}

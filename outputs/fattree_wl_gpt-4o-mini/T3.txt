@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': 'core1, core2, pod1_aggr1, pod1_aggr2, pod2_aggr1, pod2_aggr2, pod1_edge1, pod1_edge2, pod2_edge1, pod2_edge2, server1, server2, server3, server4, server5, server6, server7, server8'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['pod1_edge1', 'pod1_edge2', 'pod2_edge1', 'pod2_edge2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['pod1_edge1', 'pod1_edge2', 'pod2_edge1', 'pod2_edge2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': '1. pod1_edge1\n2. pod1_edge2\n3. pod2_edge1\n4. pod2_edge2'}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['pod1_edge1', 'pod1_edge2', 'pod2_edge1', 'pod2_edge2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': '```\npod1_edge1\npod1_edge2\npod2_edge1\npod2_edge2\n```'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- pod1_edge1\n- pod1_edge2\n- pod2_edge1\n- pod2_edge2'}

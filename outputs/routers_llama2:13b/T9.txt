@@ -1,0 +1,10 @@
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork but keeping all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork but keeping all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork but keeping all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes.'}

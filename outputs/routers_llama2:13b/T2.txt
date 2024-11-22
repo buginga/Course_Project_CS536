@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 5 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n5'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 5 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 6 IP addresses assigned to devices in the network:\n\n100.0.0.1/24\n150.0.0.1/30\n150.0.0.2/30\n200.0.0.1/30\n200.0.0.2/30\n220.0.0.1/24'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 5 IP addresses assigned to devices in the given network:\n\n200.0.0.1\n200.0.0.2\n100.0.0.1\n150.0.0.1\n220.0.0.1'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 5 IP addresses assigned to devices in the network:\n\n* 100.0.0.1/24\n* 150.0.0.1/30\n* 200.0.0.2/30\n* 200.0.1.1/30\n* 220.0.0.1/24'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 5 IP addresses assigned to devices in the given network:\n\n200.0.0.1\n200.0.0.2\n100.0.0.1\n150.0.0.1\n220.0.0.1'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 5 IP addresses assigned to devices in the network:\n\n200.0.0.1\n200.0.0.2\n100.0.0.1\n150.0.0.1\n220.0.0.1'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 5 IP addresses assigned to devices in the network:\n\n1. 100.0.0.1/24\n2. 150.0.0.1/30\n3. 200.0.0.2/30\n4. 200.0.1.1/30\n5. 220.0.0.1/24'}

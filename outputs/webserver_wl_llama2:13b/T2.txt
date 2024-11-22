@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n2'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 3 IP addresses assigned to devices in the given network:\n\n1. 10.0.0.1/16\n2. fe80::1:abcd\n3. 10.0.1.1/16'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n2'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n2'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 3 IP addresses assigned to devices in the network:\n\n1. 10.0.0.1\n2. 10.0.1.1\n3. fe80::1:abcd\n\nSo, the answer is 3.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 2 IP addresses assigned to devices in the given network:\n\n1. 10.0.0.1/16\n2. fe80::1:abcd'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 3 IP addresses assigned to devices in the network:\n\n1. 10.0.0.1\n2. 10.0.1.1\n3. fe80::1:abcd\n\nSo, the answer is 3.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 2 IP addresses assigned to devices in the given network:\n\n1. 10.0.0.1/16\n2. fe80::1:abcd'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 3 IP addresses assigned to devices in the given network:\n\n1. 10.0.0.1\n2. 10.0.1.1\n3. fe80::1:abcd\n\nSo, the answer is 3.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n2'}

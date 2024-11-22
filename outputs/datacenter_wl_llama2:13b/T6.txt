@@ -1,0 +1,10 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes.\n\nThe following devices have multiple IP addresses assigned to them:\n\n* core_switch1 (with 4 IP addresses)\n* server1 (with 2 IP addresses)\n* server3 (with 2 IP addresses)\n* server4 (with 2 IP addresses)'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* core_switch1 (4 IP addresses)\n* server1 (2 IP addresses)\n* server3 (2 IP addresses)\n* server4 (2 IP addresses)\n\nNo, the following devices do not have multiple IP addresses assigned to them:\n\n* core_switch2\n* server2'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* core_switch1\n* server1\n* server2\n* server3\n* server4'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* core_switch1 (4 IP addresses)\n* server1 (2 IP addresses)\n* server3 (2 IP addresses)\n* server4 (2 IP addresses)'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the following devices have multiple IP addresses assigned to them:\n\n* core_switch1\n* server1\n* server2\n* server3\n* server4'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}

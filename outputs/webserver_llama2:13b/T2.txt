@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 4 IP addresses assigned to devices in the given network:\n\n2 IPv4 addresses (10.0.0.1 and 10.0.1.1) and 2 IPv6 addresses (fe80::1:abcd and fe80::2:abcd).'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\nThere are 3 IP addresses assigned to devices in the given network:\n\n1. 10.0.0.1/16\n2. fe80::1:abcd\n3. 10.0.1.1/16\n4. fe80::2:abcd'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n4'}

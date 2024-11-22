@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.1.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* `pod1_aggr1`\n\nMask: `0.0.0.0/0`'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects core1 to pod1_aggr1 is:\n\n* 10.0.1.0/24'}

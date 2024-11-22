@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects bb1 to bb2 is:\n\n['10.0.0.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects bb1 to bb2 is:\n\n[10.0.3.0/24]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects bb1 to bb2 is:\n\n['10.0.0.0/24', '10.0.1.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects bb1 to bb2 is:\n\n['10.0.0.0/24', '10.0.3.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects bb1 to bb2 is:\n\n['10.0.0.0/24', '10.0.3.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects bb1 to bb2 is:\n\n['10.0.0.0/16']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects bb1 to bb2 is:\n\n['10.0.0.0/24', '10.0.3.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nHere are the subnetworks that connect bb1 to bb2:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.2.0/24\n\nAll of these subnetworks have a mask of 0.0.0.0/0, which means they are all directly connected to each other.'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects bb1 to bb2 is:\n\n['10.0.0.0/24', '10.0.3.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects bb1 to bb2 is:\n\n[10.0.0.0/16]'}

@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* `bb1` - 4 IP addresses\n* `r1` - 3 IP addresses\n* `r2` - 3 IP addresses\n* `r3` - 3 IP addresses\n* `r4` - 3 IP addresses\n* `r5` - 3 IP addresses\n* `bb2` - 3 IP addresses'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1\n* r1\n* r2\n* r3'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1: 4 IP addresses\n* r1: 3 IP addresses\n* r2: 3 IP addresses\n* r3: 3 IP addresses\n* r4: 3 IP addresses\n* r5: 3 IP addresses\n* r6: 3 IP addresses'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1\n* r1\n* r2\n* r3'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1\n* r1\n* r2\n* r3\n* r4'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1: 4 IP addresses\n* r1: 3 IP addresses\n* r2: 3 IP addresses\n* r3: 3 IP addresses\n* r4: 2 IP addresses\n* r5: 3 IP addresses\n* r6: 2 IP addresses'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1\n* r1\n* r2\n* r3'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1: 4 IP addresses\n* r1: 3 IP addresses\n* r2: 3 IP addresses\n* r3: 3 IP addresses\n* r4: 2 IP addresses\n* r5: 3 IP addresses\n* r6: 2 IP addresses'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1: 4 IP addresses\n* r1: 3 IP addresses\n* r2: 3 IP addresses\n* r3: 3 IP addresses\n* r4: 3 IP addresses\n* r5: 3 IP addresses\n* r6: 2 IP addresses'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* bb1\n* r1\n* r2\n* r3\n* r4'}

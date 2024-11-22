@@ -1,0 +1,10 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, all devices have only one IP address assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}

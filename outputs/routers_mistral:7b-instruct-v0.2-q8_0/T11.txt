@@ -1,0 +1,10 @@
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No. Based on the given network information, there is no direct connection between nodes r1 and r3. Therefore, a ping request from r1 to r3 would require at least one hop through another router in the network.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': ' No.'}

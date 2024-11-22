@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '57'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '\n9'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '56'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '45'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '26'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '56'}
+{'ID': 'T2', 'topic': 'Network size', 'result': 'There are 25 IP addresses assigned to devices in the network:\n\n* 10.0.0.1/24 (3 addresses)\n* 10.0.1.1/24 (3 addresses)\n* 10.0.2.1/24 (3 addresses)\n* 10.0.3.1/24 (3 addresses)\n* 10.0.4.1/24 (2 addresses)\n* 10.0.5.1/24 (2 addresses)\n* 10.0.6.1/24 (2 addresses)\n* 10.0.7.1/24 (2 addresses)\n* 10.0.8.1/24 (2 addresses)\n* 10.0.9.1/24 (2 addresses)\n* 10.0.10.1/24 (3 addresses)\n* 10.0.11.1/24 (3 addresses)\n* 10.0.12.1/24 (3 addresses)\n* 10.0.13.1/24 (3 addresses)\n* 10.0.14.1/24 (2 addresses)\n* 10.0.15.1/24 (2 addresses)\n* 10.0.16.1/24 (2 addresses)\n* 10.0.17.1/24 (2 addresses)\n* 10.0.18.1/24 (2 addresses)\n* 10.0.19.1/24 (2 addresses)\n* 10.0.20.1/24 (3 addresses)\n* 10.0.21.1/24 (3 addresses)\n* 10.0.22.1/24 (3 addresses)\n* 10.0.23.1/24 (3 addresses)\n* 10.0.24.1/24 (2 addresses)\n\nIn total, there are 25 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '65'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '7'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '56'}

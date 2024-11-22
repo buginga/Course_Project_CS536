@@ -1,0 +1,10 @@
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for app_server1 to ping app_server2 without any hop.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for app_server1 to ping app_server2 without any hop.'}

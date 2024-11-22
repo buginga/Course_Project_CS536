@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nHere are the possible subnetworks that connect core1 to pod1_aggr1:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.2.0/24\n\nHowever, the correct answer is:\n\n* 10.0.0.0/0'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n['10.0.0.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n['10.0.0.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n['10.0.0.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n['10.0.0.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nHere are the subnetworks that connect core1 to pod1_aggr1:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.2.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n[10.0.0.0/24]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nHere are the possible subnetworks that connect core1 to pod1_aggr1:\n\n* 10.0.0.0/24\n* 10.0.1.0/24\n* 10.0.2.0/24\n\nThe correct answer is:\n\n[10.0.0.0/24]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n['10.0.0.0/24']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects core1 to pod1_aggr1 is:\n\n[10.0.0.0/24]'}

@@ -1,0 +1,10 @@
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': " Yes. The network includes several IPv6 addresses in the local\\_addresses of various nodes (e.g., 'fe80::1:abcd' for core1, 'fe80::2:abcd' for core2)."}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': " Yes. The network includes several IPv6 addresses in the local\\_addresses list of various nodes, such as 'fe80::1:abcd', 'fe80::2:abcd', '10.0.200.1/24', and others."}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. The network includes several IPv6 addresses, such as fe80::1:abcd, fe80::2:abcd, 10.0.200.1/24, 10.0.210.1/24, and others.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. There are IPv6 addresses assigned to some of the nodes in the network. Specifically, each core node has an IPv6 link-local address.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': " Yes. There are several IPv6 addresses assigned to the nodes in the network. Specifically, each core and aggregation node has a link-local IPv6 address assigned to it. For example, 'core1' has the link-local address 'fe80::1:abcd'. The edge nodes also have both IPv4 and IPv6 addresses assigned to them. For instance, 'pod1_edge1' has the local addresses ['10.0.10.10/24', '10.0.12.10/24', '10.0.100.1/24', '10.0.110.1/24']. The first two addresses are IPv4, while the last two addresses are IPv6."}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': ' Yes. There are IPv6 addresses assigned to some of the nodes in the network. Specifically, each core node has an IPv6 link-local address assigned.'}
+{'ID': 'T7', 'topic': 'IP addressing ', 'result': " Yes. The network contains several IPv6 addresses, such as 'fe80::1:abcd', 'fe80::2:abcd', '10.0.200.1/24', '10.0.210.1/24', '10.0.220.1/24', and '10.0.230.1/24'."}

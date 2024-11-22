@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nBased on the provided network graph, the following devices have the most IP addresses assigned:\n\n* client (2 IP addresses)\n* server (2 IP addresses)'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nBased on the provided network graph, the following devices have the most IP addresses assigned:\n\n* Client: 2 IP addresses (10.0.0.1/16 and fe80::1:abcd)\n* Server: 2 IP addresses (10.0.1.1/16 and fe80::2:abcd)'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nBased on the provided network graph, the following nodes have the most IP addresses assigned:\n\n* client (2 IP addresses)\n* server (2 IP addresses)'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nThe following nodes have the most IP addresses assigned:\n\n* client (2 IP addresses)\n* server (2 IP addresses)'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nThe following nodes have the most IP addresses assigned:\n\n* client (2 IP addresses)\n* server (2 IP addresses)'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nBased on the provided network graph, the following devices have the most IP addresses assigned:\n\n1. client\n2. server'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* client\n* server'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\n* client\n* server'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nThe following nodes have the most IP addresses assigned:\n\n* client (2 IP addresses)\n* server (2 IP addresses)'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '\nBased on the provided network graph, the following nodes have the most IP addresses assigned:\n\n1. client (2 IP addresses)\n2. server (2 IP addresses)'}

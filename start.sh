@@ -2,7 +2,7 @@
 
 # Directory containing files
 DIRECTORY="networks"
-ORIGINAL_NETWORKS="intradomain_wl.json intradomain.json routers_wl.json routers.json webserver_wl.json webserver.json"
+NETWORKS="intradomain_wl.json intradomain.json routers_wl.json routers.json webserver_wl.json webserver.json "
 EXTEND_NETWORKS="datacenter_wl.json datacenter.json fattree_wl.json fattree.json"
 
 # Array of elements

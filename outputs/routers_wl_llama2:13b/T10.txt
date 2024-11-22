@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects r2 to r3 is:\n\n['200.0.0.0/30']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects r2 to r3 is:\n\n[200.0.0.0/24]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects r2 to r3 is:\n\n['200.0.0.0/30']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects r2 to r3 is:\n\n[200.0.0.0/30]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects r2 to r3 is:\n\n[200.0.0.0/30]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects r2 to r3 is:\n\n[200.0.0.0/30]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects r2 to r3 is:\n\n[200.0.0.0/30]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects r2 to r3 is:\n\n[200.0.0.0/30]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects r2 to r3 is:\n\n['200.0.0.0/30']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects r2 to r3 is:\n\n[200.0.0.0/30]'}

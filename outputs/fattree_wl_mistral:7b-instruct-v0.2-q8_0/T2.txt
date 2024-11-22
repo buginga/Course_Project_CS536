@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': ' The network defines a total of 34 local IP addresses across all the devices: 3 cores (6 IPs each), 6 aggregations (3 IPs each), 4 edges (8 IPs each), and 8 servers (2 IPs each).\n\nSo, 3 * 6 + 6 * 3 + 4 * 8 + 8 * 2 = 34 local IP addresses.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 76 IP addresses assigned to devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 56 IP addresses assigned to the devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 64 IP addresses assigned to the devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 56 IP addresses assigned to the devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 64 IPv4 addresses and 12 IPv6 addresses assigned to the devices in the network. So, the total number of IP addresses is 76.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 53 IP addresses assigned to the devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 56 IP addresses assigned to the devices in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 63 IPv4 addresses and 0 IPv6 addresses in the network.'}
+{'ID': 'T2', 'topic': 'Network size', 'result': ' There are a total of 65 IP addresses assigned to devices in the network.'}

@@ -1,0 +1,10 @@
+{'ID': 'T2', 'topic': 'Network size', 'result': '48'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '52'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '42'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '54'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '34'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '36'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '72'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '32'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '31'}
+{'ID': 'T2', 'topic': 'Network size', 'result': '34'}

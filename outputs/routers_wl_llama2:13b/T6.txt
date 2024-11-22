@@ -1,0 +1,10 @@
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': "\nYes, the device with ID 'r1' has multiple IP addresses assigned to it: 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30."}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': "\nYes, the device with ID 'r1' has multiple IP addresses assigned to it: 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30."}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the device with the ID "r1" has multiple IP addresses assigned to it: 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': "\nYes, the device with ID 'r1' has multiple IP addresses assigned to it: 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30.\n\nNo, the other devices (r2 and r3) do not have multiple IP addresses assigned to them."}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': "\nYes, the device with ID 'r1' has multiple IP addresses assigned to it: 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30.\n\nNo, the other devices (r2 and r3) do not have multiple IP addresses assigned to them."}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': "\nYes, the device with ID 'r1' has multiple IP addresses assigned to it: 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30."}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the device with ID "r1" has multiple IP addresses assigned to it: 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nYes, the device with ID "r1" has multiple IP addresses assigned to it: 100.0.0.1/24, 150.0.0.1/30, and 200.0.1.2/30.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo, none of the devices have multiple IP addresses assigned to them.'}
+{'ID': 'T6', 'topic': 'IP addressing ', 'result': '\nNo.'}

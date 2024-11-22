@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n['10.0.0.0/0']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n[10.0.0.0/24]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n['10.0.0.0/0']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n['10.0.0.0/0']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n['10.0.0.0/0']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n['10.0.0.0/0']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n['10.0.0.0/0']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n[10.0.0.0/24]'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nHere are the subnetworks that connect app_server1 to core_switch1:\n\n* 10.0.0.0/24\n* 10.1.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '\nThe subnetwork that connects app_server1 to core_switch1 is:\n\n[10.0.0.0/24]'}

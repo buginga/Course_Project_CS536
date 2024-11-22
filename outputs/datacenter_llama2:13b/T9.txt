@@ -1,0 +1,10 @@
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork but keep all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo, it is not possible to remove one subnetwork and keep all the devices able to ping each other. The reason is that the devices are assigned IP addresses from the same pool of IP addresses, and if one subnetwork is removed, the IP addresses from that subnetwork will no longer be available for the remaining devices.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork while keeping all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork but keeping all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo, it is not possible to remove one subnetwork while keeping all the devices able to ping each other. The reason is that the devices are connected to different subnets, and removing one of those subnets would disconnect the devices from each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork while keeping all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo, it is not possible to remove one subnetwork and keep all the devices able to ping each other. The reason is that the devices are connected to different subnets, and removing one of those subnets would disconnect the devices from each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nNo, it is not possible to remove one subnetwork and keep all the devices able to ping each other. The devices in different subnetworks are not directly reachable without any routing or NAT configuration.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork but keeping all the devices able to ping each other.'}
+{'ID': 'T9', 'topic': 'Subnetting', 'result': '\nYes, it is possible to remove one subnetwork but keeping all the devices able to ping each other.'}

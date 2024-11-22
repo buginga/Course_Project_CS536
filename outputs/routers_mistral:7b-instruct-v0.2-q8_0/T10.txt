@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the provided network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the given network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the given network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the given network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the provided network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the provided network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the provided network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the given network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the given network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': " Based on the given network information, the subnetwork that connects r2 and r3 is '200.0.0.0/24'."}
