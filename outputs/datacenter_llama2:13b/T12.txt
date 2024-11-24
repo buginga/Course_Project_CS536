@@ -1,10 +1,10 @@
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for app_server1 to ping core_switch1 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nNo.'}

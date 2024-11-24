@@ -1,10 +1,10 @@
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for r2 to ping r3 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for r2 to ping r3 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for r2 to ping r3 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}

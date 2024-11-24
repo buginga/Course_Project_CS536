@@ -1,10 +1,10 @@
 {'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
-{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo'}
-{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for bb1 to ping bb3 without any hop.'}
 {'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
-{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo'}
 {'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
 {'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
 {'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo'}
-{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo, it is not possible for bb1 to ping bb3 without any hop.'}
-{'ID': 'T11', 'topic': 'Path computation', 'result': 'No'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo.'}
+{'ID': 'T11', 'topic': 'Path computation', 'result': '\nNo'}

@@ -1,10 +1,10 @@
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nNo, it is not possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nNo, it is not possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nNo.'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': '\nYes, it is possible for bb1 to ping bb2 without any hop.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': '\nNo, it is not possible for bb1 to ping bb2 without any hop.'}

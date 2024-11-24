@@ -1,10 +1,10 @@
 {'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': 'no \n'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': 'no \n'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': 'no \n'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': 'no \n'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': 'no \n'}
-{'ID': 'T12', 'topic': 'Path computation', 'result': 'no \n'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
 {'ID': 'T12', 'topic': 'Path computation', 'result': 'no'}
