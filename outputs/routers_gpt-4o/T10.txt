@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '```\n200.0.0.0/30\n```'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '200.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '```\n200.0.0.0/30\n```'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '200.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '200.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '200.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '```\n200.0.0.0/30\n```'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "['200.0.0.0/30']"}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '200.0.0.0/30'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': "['200.0.0.0/30']"}

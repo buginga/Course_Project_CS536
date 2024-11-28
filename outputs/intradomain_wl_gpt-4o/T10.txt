@@ -1,0 +1,10 @@
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is 10.0.0.0/24.'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetworks that connect `bb1` to `bb2` are:\n\n- `10.0.0.0/24`'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is 10.0.0.0/24.'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork masks that connect `bb1` to `bb2` are:\n\n- `10.0.0.0/24`'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is `10.0.0.0/24`.'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '- 10.0.0.0/24'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': '```\n10.0.0.0/24\n```'}
+{'ID': 'T10', 'topic': 'Subnetting ', 'result': 'The subnetwork that connects bb1 to bb2 is `10.0.0.0/24`.'}

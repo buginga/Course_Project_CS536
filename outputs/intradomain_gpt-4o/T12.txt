@@ -1,0 +1,10 @@
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'No.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'Yes.'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'No'}
+{'ID': 'T12', 'topic': 'Path computation', 'result': 'No'}

@@ -1,0 +1,10 @@
+{'ID': 'T3', 'topic': 'Network size', 'result': '`bb1`, `bb2`'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '`bb1`, `bb2`, `r3`'}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['bb1', 'bb2', 'r3', 'r5']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['bb1', 'bb2', 'r3']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': '`bb1, bb2, r3`'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '`bb1`, `bb2`, `r3`'}
+{'ID': 'T3', 'topic': 'Network size', 'result': '- bb1\n- bb2\n- r3'}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['bb1', 'bb2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['bb1', 'bb2']"}
+{'ID': 'T3', 'topic': 'Network size', 'result': "['bb1', 'bb2', 'r3', 'r5']"}
