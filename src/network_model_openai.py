@@ -55,17 +55,29 @@ if __name__ == "__main__":
             else:
                 task = row['task'].format(x1=network_label["x1_pos"], x2=network_label["x2_pos"])
             prompt = prompt_template.format(network=network, task=task)
-            response = client.chat.completions.create(
-                    model=model_code, 
-                    messages=[
-                        {"role": "system", "content": "You are a helpful assistant to answer users' questions on a given networking structure."},                        
-                        {
-                            "role":"user",
-                            "content": prompt
-                        }
-                    ],
-                    temperature=1.2
-                )
+            
+            if model_code == "o1-preview":
+                response = client.chat.completions.create(
+                        model=model_code, 
+                        messages=[
+                            {
+                                "role":"user",
+                                "content": prompt
+                            }
+                        ]
+                    )
+            else:    
+                response = client.chat.completions.create(
+                        model=model_code, 
+                        messages=[
+                            {"role": "system", "content": "You are a helpful assistant to answer users' questions on a given networking structure."},                        
+                            {
+                                "role":"user",
+                                "content": prompt
+                            }
+                        ],
+                        temperature=1.2
+                    )
             result["result"]=response.choices[0].message.content
             results.append(result)
         with open(f"outputs/{network_name}_{model_code}/{row['ID']}.txt", 'w') as file:
