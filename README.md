@@ -158,11 +158,8 @@ Each task was prompted 10 times for each model and network combination, using **
 
 <br />
 
-<div align="center" style="overflow: hidden; display: flex; justify-content:space-around;">
-    <div style="max-width: 20%; max-height: 20%;"><img src="misc/imgs/llama.jpg"></div>
-    <div style="max-width: 11.5%; max-height: 11.5%;"><img src="misc/imgs/gemma.png"></div>
-    <div style="max-width: 8.5%; max-height: 8.5%;"><img src="misc/imgs/gpt.png"></div>
-    <div style="max-width: 25%; max-height: 25%;"><img src="misc/imgs/mistral.png"></div>
+<div align="center">
+    <div style="max-width: 40%; max-height: 40%;"><img src="misc/imgs/llms.jpg"></div>
 </div>
 
 </br>
