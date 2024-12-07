@@ -92,7 +92,7 @@ The original study set out to explore the capacity of LLMs to comprehend compute
 Another important things to remember is that, even if we manage to evaluate a few of the original LLMs (more on this later), we could obtain the exact same results as in the original work (see image below). The authors did not specify a few important parameters (like the models temperature, quantization, or revision), thus our analysis focuses more on the macro trends that the data shows.
 
 <div align="center">
-    <img src="misc/imgs/comparison.png" width="40%" height="40%"></img>
+    <img src="misc/imgs/comparison.png" width="50%" height="50%"></img>
 </div>
 <center>Discrepancy example between the original and our analysis</center>
 
@@ -159,7 +159,7 @@ Each task was prompted 10 times for each model and network combination, using **
 <br />
 
 <div align="center">
-    <div style="max-width: 40%; max-height: 40%;"><img src="misc/imgs/llms.jpg"></div>
+    <div style="max-width: 30%; max-height: 30%;"><img src="misc/imgs/llms.jpg"></div>
 </div>
 
 </br>
