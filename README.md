@@ -156,12 +156,6 @@ Unfortunately, due to the extreme cost (in term of time and money) of prompting 
 
 Each task was prompted 10 times for each model and network combination, using **accuracy** as the primary evaluation metric. Answers from LLMs can be completely right (full point), partially (0.5 points), and completely wrong (0 points). Due to the fact that what consitutes a "partially correct" answer was never defined, we recognize that some variance may be caused by our different interpretation of these partially correct answers.
 
-<br />
-
-<div align="center">
-    <div style="max-width: 30%; max-height: 30%;"><img src="misc/imgs/llms.jpg"></div>
-</div>
-
 </br>
 
 ### Special Parameters
@@ -348,6 +342,15 @@ Adding explicit links in NetJSON files produced mixed results:
 
 GPT 4o mini particularly benefited, seeing a **10% accuracy increase** with explicit links.
 
+<br />
+
+## 6. What about OpenAI o1 preview?
+
+To put it simply, it was **significantly better than everything else**. We only could analyze its performance using the Intradomain (I) network, but its performance was much better than anticipated. If other LLMs struggled, o1 preview worst score was 80% in task T5, and adding links helped the model more than not. Here are the full results:
+
+<div align="center">
+    <img src="misc/imgs/o1.png" width="50%" height="50%"></img>
+</div>
 
 
 <div id="nexsteps"></div>
