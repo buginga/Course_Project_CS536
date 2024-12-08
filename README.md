@@ -166,7 +166,7 @@ Each task was prompted 10 times for each model and network combination, using **
 
 ### Special Parameters
 
-In order to ensure future reproducibility, we include here the most important paramters necessary to obtain similar performances:
+In order to ensure future reproducibility, we include here the most important parameters necessary to obtain similar performances:
 
 **Temperature**
 
@@ -248,7 +248,7 @@ We assume that this was done primarily for 2 reasons:
 
 <br />
 
-In our analysis we wanted to not only investigate the performance of all LLMs when these links were present, but also compare and constract the effect that these links may have on the reasoning and comprehension capabilities of the models. Thus, **we added the explicit link encoding in all netwotk files**, and prompted all models with and without links.
+In our analysis we wanted to not only investigate the performance of all LLMs when these links were present, but also compare and constract the effect that these links may have on the reasoning and comprehension capabilities of the models. Thus, **we added the explicit link encoding in all network files**, and prompted all models with and without links.
 
 <br />
 
@@ -309,7 +309,15 @@ The original study claimed that LLMs struggled to generate meaningful visualizat
 
 Example:
 - **Mermaid Diagram**: Near-perfect representation of Fat Tree (F).  
+
+<div align="center">
+    <img src="misc/imgs/standalone_fattree.png" width="40%" height="40%"></img>
+</div>
 - **ASCII Art**: Struggled even with simpler networks like Routers (R).
+
+<div align="center">
+    <img src="misc/imgs/routers_ascii.png" width="20%" height="20%"></img>
+</div>
 
 <br />
 
