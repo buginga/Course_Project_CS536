@@ -313,6 +313,7 @@ Example:
 <div align="center">
     <img src="misc/imgs/standalone_fattree.png" width="40%" height="40%"></img>
 </div>
+
 - **ASCII Art**: Struggled even with simpler networks like Routers (R).
 
 <div align="center">
